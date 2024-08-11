@@ -201,7 +201,7 @@ body {
   }
   
   footer .links nav a {
-    color: #4CAF50;
+    color: #dcef51;
     text-decoration: none;
     display: grid;
     margin: 5px 0;
@@ -210,3 +210,4 @@ body {
   footer .links nav a:hover {
     text-decoration: underline;
   }
+
